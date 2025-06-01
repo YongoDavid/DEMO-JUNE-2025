@@ -5,3 +5,4 @@ JUNE 01
 Sunday, chill day.
 
 JUNE 02
+New week, new day, new grind.
