@@ -9,3 +9,4 @@ New week, new day, new grind.
 
 JUNE 03
 New day, same grind.
+I will be reviewing MERN Stack again and the previous prompting course i took in feb just for active recall.
