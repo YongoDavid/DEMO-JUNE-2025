@@ -17,3 +17,5 @@ New day, same grind.
 JUNE 05
 New day, same grind.
 Still reviewing the MERN course.
+
+JUNE 06
