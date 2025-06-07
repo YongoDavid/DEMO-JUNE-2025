@@ -25,3 +25,5 @@ More MERN practice.
 JUNE 07
 New day, same grind.
 Still MERN practice.
+
+JUNE 08
