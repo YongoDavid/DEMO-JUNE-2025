@@ -27,3 +27,4 @@ New day, same grind.
 Still MERN practice.
 
 JUNE 08
+Sunday, chill day
