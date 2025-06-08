@@ -31,3 +31,4 @@ Sunday, chill day
 Still putting in light work.
 
 JUNE 09
+New week, Rinse and repeat!
