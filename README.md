@@ -29,3 +29,5 @@ Still MERN practice.
 JUNE 08
 Sunday, chill day
 Still putting in light work.
+
+JUNE 09
