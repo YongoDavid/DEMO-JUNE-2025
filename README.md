@@ -32,3 +32,5 @@ Still putting in light work.
 
 JUNE 09
 New week, Rinse and repeat!
+
+JUNE 10
