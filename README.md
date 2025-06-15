@@ -51,4 +51,4 @@ Sunday, chill day
 Putting in light work.
 
 JUNE 16
-
+New week, new day, same grind.
