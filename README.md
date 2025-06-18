@@ -58,4 +58,5 @@ New day, same grind.
 Building with MERN.
 
 JUNE 18
-Nw day, back at it again!!.
+New day, back at it again!!.
+
