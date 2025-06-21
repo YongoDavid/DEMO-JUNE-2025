@@ -69,3 +69,4 @@ New day, same grind!
 
 JUNE 21
 New day, samw grind!
+Going deeper into code and understanding syntax more.
