@@ -66,3 +66,6 @@ MERN Practice complete.
 
 JUNE 20
 New day, same grind!
+
+JUNE 21
+
