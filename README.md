@@ -75,4 +75,4 @@ JUNE 22
 Sunday, chill day, but putting in light work.
 
 JUNE 24
-
+Another day, another grind.
