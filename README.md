@@ -73,3 +73,6 @@ Going deeper into code and understanding syntax more.
 
 JUNE 22
 Sunday, chill day, but putting in light work.
+
+JUNE 24
+
