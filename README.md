@@ -79,3 +79,4 @@ Another day, another grind.
 
 JUNE 25
 Another day, another grind.
+Still going deep into reading and understanding code, the purpose and use for certain syntax.
