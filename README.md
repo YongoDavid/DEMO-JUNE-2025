@@ -68,7 +68,7 @@ JUNE 20
 New day, same grind!
 
 JUNE 21
-New day, samw grind!
+New day, same grind!
 Going deeper into code and understanding syntax more.
 
 JUNE 22
@@ -82,3 +82,4 @@ Another day, another grind.
 Still going deep into reading and understanding code, the purpose and use for certain syntax.
 
 JUNE 26
+Another day, another grind.
