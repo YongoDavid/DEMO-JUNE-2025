@@ -83,3 +83,5 @@ Still going deep into reading and understanding code, the purpose and use for ce
 
 JUNE 26
 Another day, another grind.
+
+JUNE 28
