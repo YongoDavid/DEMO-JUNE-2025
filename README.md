@@ -88,4 +88,4 @@ JUNE 28
 New day, same grind.
 
 JUNE 30
-
+Last day on the month and 1 half of 2025 is over!
