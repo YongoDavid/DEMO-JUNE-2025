@@ -91,3 +91,4 @@ JUNE 30
 Last day on the month and 1 half of 2025 is over!
 It's been a good month so far, i delved deeper into code and learnt alot more.
 I gained alot of knowledge this half and i will continue to gain more and apply wisdom.
+
